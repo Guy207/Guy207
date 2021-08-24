@@ -5,7 +5,7 @@
 - 📫 How to reach me: lazizmuradov@gmail.com 
     use [github connect] in the subject to get past the spam filter
 - Instagram: the_one_and_only_101010
-"The lovely world /n
+"The lovely world \n
 with logic so firmly planted /n
 cannot discern /n
 the needs of love
