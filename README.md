@@ -5,13 +5,13 @@
 - 📫 How to reach me: lazizmuradov@gmail.com 
     use [github connect] in the subject to get past the spam filter
 - Instagram: the_one_and_only_101010
-"The lovely world \n
-with logic so firmly planted /n
-cannot discern /n
-the needs of love
-nor comprehend passion from intuition
-and requires an explanation
-where there is none."
+>The lovely world 
+>with logic so firmly planted
+>cannot discern 
+>the needs of love
+>nor comprehend passion from intuition
+>and requires an explanation
+>where there is none." - Shaw Z
 
 <!---
 Guy207/Guy207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
