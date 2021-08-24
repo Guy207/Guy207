@@ -11,7 +11,7 @@
 >the needs of love
 >nor comprehend passion from intuition
 >and requires an explanation
->where there is none." - Shaw Z.
+>where there is none." - Zed Shaw.
 
 <!---
 Guy207/Guy207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
